@@ -11,6 +11,7 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 [vega.html](basic/vega-lite_first.html)<br>
+[Exercícios Vega-Lite API](vega-lite-api-excercicios.md)<br>
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
